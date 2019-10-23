@@ -7,3 +7,5 @@
 # Videos
 - [python full stack](https://www.youtube.com/watch?v=s6NaOKD40rY)
 - [Python for everybody](https://www.youtube.com/watch?v=8DvywoWv6fI)
+
+
