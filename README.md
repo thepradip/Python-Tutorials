@@ -1,4 +1,5 @@
 # Python-Tutorials
+- [Learn python](https://www.learnpython.org)
 - [Python for non-programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
 - [Python Beginners Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 - [Real Python](https://realpython.com/)
